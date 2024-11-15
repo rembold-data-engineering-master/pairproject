@@ -1,4 +1,9 @@
-# The Pairs Project
-You are responsible for uploading a paper describing your database and analysis for this last pair project. I have included the project guidelines in this repository, but it is otherwise empty. You can also upload any other supporting data or materials that you might like. Please upload your final paper in pdf form.
+# DATA 351 Project
 
-Due: April 22, 2022
+While you should feel free to use this repository as a method of sharing information or work between you and your group, it's primary use should be to upload the final deliverables of the project. That means:
+
+- [ ] The presentation slides
+- [ ] The problem and solution PDFs
+- [ ] The database dump, assuming that it is small enough to fit
+
+If anything can't be uploaded, you should edit this file to include links to where that information can be found.

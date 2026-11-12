@@ -1,6 +1,6 @@
-# DATA 351 Project
+# DATA 351 End-of-Semester Project
 
-While you should feel free to use this repository as a method of sharing information or work between you and your group, it's primary use should be to upload the final deliverables of the project. That means:
+While you should feel free to use this repository as a method of sharing information or work between you and your group, its primary use should be to upload the final deliverables of the project. That means:
 
 - [ ] The presentation slides
 - [ ] The problem and solution PDFs
